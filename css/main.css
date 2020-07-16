@@ -1,0 +1,31 @@
+div{
+  font-size:140%;
+  
+}
+
+div[class^="d"]{
+  border: 1px solid black;
+  margin-top:3%;
+}
+
+/*div[class$=lg]{
+  color:red;
+}
+div[class$=md]{
+  color:blue;
+}
+div[class$=sm]{
+  color:green;
+}*/
+
+.d-lg-block{
+	color:red;
+}
+
+.d-md-block{
+	color:green;
+}
+
+.d-sm-block{
+	color:blue;
+}
